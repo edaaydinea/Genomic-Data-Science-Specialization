@@ -53,4 +53,4 @@
 ## Certificates
 
 - **Course 1: Introduction to Genomic Technologies**
-  - **Link:** [URL to certificate, if available]
+  - **Link:** <https://coursera.org/share/68ac8e1feadd2da7b43b9515f655947a>
