@@ -140,8 +140,6 @@
 
 # Software Engineering
 
-**Lecture Notes on Software Engineering in Genomic Data Science**
-
 1. **Importance of Software Engineering**:
     - Often overlooked but essential in computational data analysis.
     - Focus on reliability, case handling, and performance.
@@ -170,39 +168,6 @@
     - Software engineering is vital for genomic software.
     - Even well-engineered software can have bugs and errors, especially with big data.
     - Always verify and understand software outputs before making conclusions.
-
----
-
-**Genomik Veri Biliminde Yazılım Mühendisliği Üzerine Ders Notları**
-
-1. **Yazılım Mühendisliğinin Önemi**:
-    - Sıklıkla göz ardı edilse de hesaplamalı veri analizinde esastır.
-    - Güvenilirlik, vaka ele alma ve performansa odaklanma.
-2. **Programlama ve Matematik Arasındaki Fark**:
-    - Örnek denklem: \( z = \frac{x}{y} \).
-    - Programlamada, çökme önlemek için ek kontroller gereklidir (örneğin, \( y \neq 0 \) olduğundan emin olmak).
-3. **Beklenmedik Durumların Ele Alınması**:
-    - Yazılım, özellikle büyük veri kümeleri ile nadir ancak olası senaryoları hesaba katmalıdır.
-    - İyi mühendislik, hesaplamalı biyoloji programlarının güvenilirliğini sağlar.
-4. **Genomik Yazılımın Anlaşılması**:
-    - Program operasyonlarını anlamak gereklidir, sadece kara kutular olarak ele alınmamalıdır.
-    - Anlamama, çıktıları yorumlamada karışıklığa ve hatalara yol açabilir.
-5. **Örnek: RNA Düzenlemesi**:
-    - RNA düzenlemesi, DNA'dan transkripsiyon sonrası nadiren nükleotidlerin değişmesini içerir.
-    - Nadir bir fenomen, ancak gen düzenlemesi için önemlidir.
-6. **RNA Düzenlemesinin Tespiti**:
-    - Aynı bireyden DNA ve RNA dizilerini karşılaştırın.
-    - Yanlış hizalama, potansiyel RNA düzenlemesini gösterir.
-7. **RNA Düzenlemesi Keşfi Üzerine Vaka Çalışması**:
-    - Bilim insanları hizalama yazılımı kullandı ve yeni RNA-DNA farklılıkları bularak yeni RNA düzenleme mekanizmaları öne sürdü.
-    - Heyecan ve tartışma yarattı.
-8. **Bulguların Doğrulanması**:
-    - Tespit edilen farklılıkların geçerliliğini sorgulamanın önemi.
-    - %99.999 doğruluk bile büyük veri kümelerinde önemli hatalara yol açabilir.
-9. **Kritik Mesaj**:
-    - Genomik yazılım için yazılım mühendisliği hayati öneme sahiptir.
-    - İyi tasarlanmış yazılım bile, özellikle büyük veri ile hatalara sahip olabilir.
-    - Sonuçlara varmadan önce her zaman yazılım çıktılarının doğruluğunu kontrol edin ve anlayın.
 
 # What is Computational Biology Software?
 
